@@ -17,7 +17,7 @@
 /* www.reh3.com */
 
 * {margin:0;padding:0;}
-body {background:#000 url(/kam.gif) no-repeat top left;}
+body {background:#000 url(kam.gif) no-repeat top left;}
 
 /* 
 Basic Positioning 
@@ -39,18 +39,18 @@ header {width:770px;height:215px;}
 .intro 
 ***********************************************************************************/
 header {
-	background:url(/mask.png) no-repeat top left;
+	background:url(mask.png) no-repeat top left;
 }
 header h1 {
 	margin:0 0 0 291px;
-	background:url(/gedo.jpg) no-repeat top left;
+	background:url(gedo.jpg) no-repeat top left;
 	width:479px;
 	height:215px;
 	text-indent:-5000px;
 }
 header h2 {display:none;}
 .summary {
-	background:url(/down.jpg) no-repeat top left;
+	background:url(down.jpg) no-repeat top left;
 	height:120px;
 	padding:28px 35px 0 35px;
 }
@@ -65,7 +65,7 @@ header h2 {display:none;}
 .summary a:link, .summary a:active, .summary a:visited {color:#555;}
 .summary a:hover {color:#900;}
 .preamble h3 {
-	background:url(/r3_zen666_road_bg.jpg) no-repeat top left;
+	background:url(r3_zen666_road_bg.jpg) no-repeat top left;
 	margin:0 0 0 -35px;
 	width:399px;
 	height:37px;
@@ -90,12 +90,12 @@ header h2 {display:none;}
 	height:37px;
 	text-indent:-5000px;
 }
-.explanation h3 {background:url(/r3_zen666_about_bg.jpg) no-repeat top left;}
-.participation h3 {background:url(/r3_zen666_part_bg.jpg) no-repeat top left;}
-.benefits h3 {background:url(/r3_zen666_ben_bg.jpg) no-repeat top left;}
-.requirements h3 {background:url(/r3_zen666_req_bg.jpg) no-repeat top left;}
+.explanation h3 {background:url(r3_zen666_about_bg.jpg) no-repeat top left;}
+.participation h3 {background:url(r3_zen666_part_bg.jpg) no-repeat top left;}
+.benefits h3 {background:url(r3_zen666_ben_bg.jpg) no-repeat top left;}
+.requirements h3 {background:url(r3_zen666_req_bg.jpg) no-repeat top left;}
 footer {
-	background:url(/r3_zen666_footer_bg.jpg) no-repeat top left;
+	background:url(r3_zen666_footer_bg.jpg) no-repeat top left;
 	height:60px;
 	margin:0 -35px 0 -35px;
 	padding:240px 0 0 0;
@@ -110,7 +110,7 @@ footer {
 .sidebar
 ***********************************************************************************/
 .sidebar {
-	background:url(/kamui.jpg) no-repeat top left;
+	background:url(kamui.jpg) no-repeat top left;
 	padding:1px 0 0 7px;
 	font-size:10px;
 	font-family:verdana;
@@ -131,9 +131,9 @@ footer {
 	height:35px;
 	text-indent:-5000px;
 }
-.design-selection h3 {background:url(/r3_zen666_lselect_bg.jpg) no-repeat top left;}
-.design-archives h3 {background:url(/r3_zen666_larchive_bg.jpg) no-repeat top left;}
-.zen-resources h3 {background:url(/r3_zen666_lres_bg.jpg) no-repeat top left;}
+.design-selection h3 {background:url(r3_zen666_lselect_bg.jpg) no-repeat top left;}
+.design-archives h3 {background:url(r3_zen666_larchive_bg.jpg) no-repeat top left;}
+.zen-resources h3 {background:url(r3_zen666_lres_bg.jpg) no-repeat top left;}
 .sidebar a:link, .sidebar a:active, .sidebar a:visited {color:#444;}
 .sidebar a:hover {color:#900;}
 /*
@@ -143,7 +143,7 @@ footer {
 	position:fixed;
 	bottom:0;
 	left:540px;
-	background:url(/r3_zen666_tombstone.png) no-repeat top left;
+	background:url(r3_zen666_tombstone.png) no-repeat top left;
 	width:227px;
 	height:267px;
 }
