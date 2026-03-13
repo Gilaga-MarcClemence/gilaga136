@@ -17,7 +17,7 @@
 /* www.reh3.com */
 
 * {margin:0;padding:0;}
-body {background:#000 url(r3_zen666_bg.jpg) no-repeat top left;}
+body {background:#000 url(/kam.gif) no-repeat top left;}
 
 /* 
 Basic Positioning 
@@ -43,14 +43,14 @@ header {
 }
 header h1 {
 	margin:0 0 0 291px;
-	background:url(/r3_zen666_logo.jpg) no-repeat top left;
+	background:url(/gedo.jpg) no-repeat top left;
 	width:479px;
 	height:215px;
 	text-indent:-5000px;
 }
 header h2 {display:none;}
 .summary {
-	background:url(/r3_zen666_qs_bg.jpg) no-repeat top left;
+	background:url(/down.jpg) no-repeat top left;
 	height:120px;
 	padding:28px 35px 0 35px;
 }
@@ -110,7 +110,7 @@ footer {
 .sidebar
 ***********************************************************************************/
 .sidebar {
-	background:url(/r3_zen666_lickList_bg.jpg) no-repeat top left;
+	background:url(/kamui.jpg) no-repeat top left;
 	padding:1px 0 0 7px;
 	font-size:10px;
 	font-family:verdana;
